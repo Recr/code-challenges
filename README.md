@@ -1,2 +1,2 @@
 # code-challenges
-Code questions resolutions
+Code questions resolutions and some tests
